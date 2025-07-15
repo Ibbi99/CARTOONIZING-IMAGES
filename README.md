@@ -6,8 +6,6 @@ A Python-based desktop application that transforms your real-world photos into c
 
 ---
 
----
-
 ## Overview
 
 This project is centered around **image cartoonization**, leveraging computer vision techniques to create a stylized version of an input image. The application includes:
